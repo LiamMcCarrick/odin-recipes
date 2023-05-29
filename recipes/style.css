@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1,
+h2 {
+    color: olive;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    font-style: italic;
+}
