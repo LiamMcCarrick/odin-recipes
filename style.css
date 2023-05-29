@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+h1,
+ul {
+    color: olive;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ul {
+    font-style: italic;
+}
